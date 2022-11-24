@@ -1,1 +1,1 @@
-Using the government website https://www.countyoffice.org/il-cook-county-pharmacy/ have to scrape to get data for all pharmacys in Cook County. Need to get the name, address, zipcode, and phone number.
+Using Cook Country pharmacy listings @ https://www.countyoffice.org/il-cook-county-pharmacy/, scraped for Name, Address, Zip Code, and Phone #. Deliverable for medical research 
